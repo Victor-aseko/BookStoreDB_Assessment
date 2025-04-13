@@ -1,0 +1,3 @@
+DROP DATABASE BookStoreDB;
+CREATE DATABASE BookStoreDB;
+USE BookStoreDB;

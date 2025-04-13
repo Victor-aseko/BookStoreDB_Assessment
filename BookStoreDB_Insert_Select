@@ -1,0 +1,14 @@
+
+-- Dummy_Data_Example
+
+INSERT INTO Book (title, publisher_id, language_id, price, publication_year) VALUES (
+"Parliament Owl", 200, 299, 500, 2010
+);
+
+SELECT * FROM Book;
+
+-- List books and their authors
+SELECT b.title, a.name
+FROM book b
+JOIN book_author ba ON b.book_id = ba.book_id
+JOIN author a ON ba.author_id = a.author_id;
